@@ -1,0 +1,24 @@
+{
+  "name": "funstuff",
+  "version": "1.0.0",
+  "description": "This is just for fun and will create a website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohanhunnurkar0401/funstuff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohanhunnurkar0401/funstuff/issues"
+  },
+  "homepage": "https://github.com/rohanhunnurkar0401/funstuff#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-ejs-layouts": "^2.5.0"
+  }
+}
